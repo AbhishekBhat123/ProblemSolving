@@ -46,34 +46,29 @@
 
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+        int n  = nums.length;
+        int prefixsum = 0;
+        // this is for storing the remainders
+        int count[] = new int[k];
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int ans = 0; 
 
-        // Remainder 0 has occurred once before we start.
-        map.put(0, 1);
+        // this is for storing the prefix value say it is true that 0 % k = 0 so 0 is present as 1
+        count[0] = 1;
 
-        int prefixSum = 0;
-        int count = 0;
+        for(int num: nums){
+            prefixsum += num;
+            int remainder = prefixsum % k;
 
-        for (int num : nums) {
-
-            prefixSum += num;
-
-            int remainder = prefixSum % k;
-
-            // Java can give negative remainders
-            if (remainder < 0) {
+            if(remainder<0){
                 remainder += k;
             }
 
-            // Every previous occurrence of this remainder
-            // forms a valid subarray ending here.
-            count += map.getOrDefault(remainder, 0);
-
-            // Record this remainder
-            map.put(remainder, map.getOrDefault(remainder, 0) + 1);
+            ans += count[remainder];
+            count[remainder]++;
         }
 
-        return count;
+        return ans;
+    
     }
 }
