@@ -1,45 +1,39 @@
 // class Solution {
 //     public int maxProduct(int[] nums) {
 //         int n = nums.length;
-//         int pref[] = new int[n];
-
-//         pref[0] = nums[0];
-//         for(int i = 1; i<n; i++){
-//             pref[i] = pref[i-1] * nums[i];
-//         }
-
+//         int prod = 1;
 //         int maxProd = 0;
-//         int prod = 0;
+
 //         for(int i = 0; i<n; i++){
+//             prod = 1;
 //             for(int j = i; j<n; j++){
-//                 if(i==0){prod = pref[j];}
-//                 else{
-//                     if(pref[i-1]!=0){prod = pref[j] / pref[i-1];}
-//                     maxProd = Math.max(maxProd, prod);
-//                 }
+//                 prod *= nums[j];
+//                 maxProd = Math.max(prod, maxProd);
 //             }
 //         }
 
 //         return maxProd;
 //     }
 // }
+
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxProd = nums[0];
-        int minProd = nums[0];
+
+        int max = nums[0];
+        int min = nums[0];
         int ans = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
+
             int x = nums[i];
 
-            // Save old values because both are needed
-            int oldMax = maxProd;
-            int oldMin = minProd;
+            int oldMax = max;
+            int oldMin = min;
 
-            maxProd = Math.max(x, Math.max(x * oldMax, x * oldMin));
-            minProd = Math.min(x, Math.min(x * oldMax, x * oldMin));
+            max = Math.max(x, Math.max(x * oldMax, x * oldMin));
+            min = Math.min(x, Math.min(x * oldMax, x * oldMin));
 
-            ans = Math.max(ans, maxProd);
+            ans = Math.max(ans, max);
         }
 
         return ans;
