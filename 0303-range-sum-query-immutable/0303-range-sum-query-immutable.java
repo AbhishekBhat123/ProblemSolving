@@ -1,15 +1,49 @@
-class NumArray {
-    int[] prefix; 
-    public NumArray(int[] nums) {
-        prefix = new int[nums.length + 1];
+// brute force approach to solve this problem
+// class NumArray {
+//     private int[] nums;
+//     public NumArray(int[] nums) {
+//         this.nums = nums;
+        
+//     }
+    
+//     public int sumRange(int left, int right) {
+//         int sum = 0;
 
-        for(int i = 0; i<nums.length; i++){
-            prefix[i+1] = prefix[i]+nums[i];
-        }
+//         // letus remove the bf approach and try to make this work as optimal by adding prf sum
+//         // for(int i = left; i<=right; i++){
+//         //     sum += nums[i];
+//         // }
+        
+//         // this code also works but here in the issue that i am creating pref array so that will be consming some time
+//         int pref[] = new int[nums.length];
+//         pref[0] = nums[0];
+//         for(int i = 1; i<nums.length; i++){
+//             pref[i] =  pref[i-1] + nums[i];
+//         }
+
+//         if (left == 0){return pref[right];}
+//         else{return pref[right] - pref[left - 1];}
+ 
+//     }
+// }
+
+
+
+class NumArray {
+    private int[] pref;
+    public NumArray(int[] nums) {
+       pref = new int[nums.length];
+       pref[0] = nums[0];
+       for(int i = 1; i<nums.length; i++){
+        pref[i] = pref[i-1] + nums[i];
+       }
+        
     }
     
     public int sumRange(int left, int right) {
-        return prefix[right + 1 ] - prefix[left];
+        if (left == 0){return pref[right];}
+        else{return pref[right] - pref[left - 1];}
+ 
     }
 }
 
