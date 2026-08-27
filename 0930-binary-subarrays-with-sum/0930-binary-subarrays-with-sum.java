@@ -18,27 +18,55 @@
 //     }
 // }
 
+// class Solution {
+//     public int numSubarraysWithSum(int[] nums, int goal) {
+
+//         HashMap<Integer, Integer> map = new HashMap<>();
+
+//         map.put(0, 1);
+
+//         int prefixSum = 0;
+//         int count = 0;
+
+//         for (int i = 0; i < nums.length; i++) {
+
+//             prefixSum += nums[i];
+
+//             int needed = prefixSum - goal;
+
+//             if (map.containsKey(needed)) {
+//                 count += map.get(needed);
+//             }
+
+//             map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+//         }
+
+//         return count;
+//     }
+// }
+
+
+// another approach efficient one
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return atMost(nums, goal) - atMost(nums, goal - 1);
+    }
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+    private int atMost(int[] nums, int goal) {
+        if (goal < 0) return 0;
 
-        map.put(0, 1);
-
-        int prefixSum = 0;
+        int left = 0;
+        int sum = 0;
         int count = 0;
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int right = 0; right < nums.length; right++) {
+            sum += nums[right];
 
-            prefixSum += nums[i];
-
-            int needed = prefixSum - goal;
-
-            if (map.containsKey(needed)) {
-                count += map.get(needed);
+            while (sum > goal) {
+                sum -= nums[left++];
             }
 
-            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+            count += right - left + 1;
         }
 
         return count;
