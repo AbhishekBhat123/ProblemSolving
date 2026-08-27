@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
@@ -61,6 +64,7 @@
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
@@ -85,6 +89,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 ## Pigeonhole Principle
 |  |
 | ------- |
