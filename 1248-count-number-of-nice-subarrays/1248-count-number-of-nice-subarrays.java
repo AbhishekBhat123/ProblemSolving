@@ -75,51 +75,77 @@
 //     }
 // }
 
+// Optimal with hashmap 
 
 
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        int left = 0;
-        int oddCount = 0;
-        int evenBefore = 0;
-        int count = 0;
+        int n = nums.length;
+        int sum = 0;
+        int cnt = 0;
 
-        for (int right = 0; right < nums.length; right++) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,1);
+        for(int num : nums){
+            // for to check weather the value is odd or not if odd then only needed
+            if(num % 2!= 0){sum++;}
 
-            // Add nums[right]
-            if (nums[right] % 2 == 1) {
-                oddCount++;
+            if(map.containsKey(sum - k)){
+                cnt += map.get(sum - k);
             }
-
-            // We have more than k odds
-            if (oddCount > k) {
-
-                // Move left until we remove the previous odd
-                while (nums[left] % 2 == 0) {
-                    left++;
-                }
-
-                left++;
-                oddCount--;
-
-                // New window -> reset the even count
-                evenBefore = 0;
-            }
-
-            // We have exactly k odds
-            if (oddCount == k) {
-
-                // Count even numbers before the first odd
-                while (nums[left] % 2 == 0) {
-                    evenBefore++;
-                    left++;
-                }
-
-                // Every possible starting position gives a valid subarray
-                count += evenBefore + 1;
-            }
+            map.put(sum, map.getOrDefault(sum, 0)+1);
         }
-
-        return count;
+          return cnt;
+            
     }
 }
+
+
+
+
+// class Solution {
+//     public int numberOfSubarrays(int[] nums, int k) {
+//         int left = 0;
+//         int oddCount = 0;
+//         int evenBefore = 0;
+//         int count = 0;
+
+//         for (int right = 0; right < nums.length; right++) {
+
+//             // Add nums[right]
+//             if (nums[right] % 2 == 1) {
+//                 oddCount++;
+//             }
+
+//             // We have more than k odds
+//             if (oddCount > k) {
+
+//                 // Move left until we remove the previous odd
+//                 while (nums[left] % 2 == 0) {
+//                     left++;
+//                 }
+
+//                 left++;
+//                 oddCount--;
+
+//                 // New window -> reset the even count
+//                 evenBefore = 0;
+//             }
+
+//             // We have exactly k odds
+//             if (oddCount == k) {
+
+//                 // Count even numbers before the first odd
+//                 while (nums[left] % 2 == 0) {
+//                     evenBefore++;
+//                     left++;
+//                 }
+
+//                 // Every possible starting position gives a valid subarray
+//                 count += evenBefore + 1;
+//             }
+//         }
+
+//         return count;
+//     }
+// }
