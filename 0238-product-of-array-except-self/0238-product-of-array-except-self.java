@@ -48,25 +48,47 @@
 
 
 
+// class Solution {
+//     public int[] productExceptSelf(int[] nums) {
+//         int n = nums.length;
+//         int ans[] = new int[n];
+
+//         // find left sum of the nums[i]
+//         int leftSum = 1;
+//         for(int i = 0; i<n; i++){
+//             ans[i] = leftSum;
+//             leftSum *= nums[i];
+//         }
+
+//         // to find the right sum 
+//         int rightSum = 1;
+//         for(int i = n-1; i>=0; i--){
+//             ans[i] *= rightSum;
+//             rightSum *= nums[i];
+//         }
+
+//         return ans;
+//     }
+// }
+
+
+
+
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int ans[] = new int[n];
+        int leftsum = 1;
+        int rightsum = 1;
 
-        // find left sum of the nums[i]
-        int leftSum = 1;
         for(int i = 0; i<n; i++){
-            ans[i] = leftSum;
-            leftSum *= nums[i];
+            ans[i] = leftsum;
+            leftsum *= nums[i];
         }
-
-        // to find the right sum 
-        int rightSum = 1;
         for(int i = n-1; i>=0; i--){
-            ans[i] *= rightSum;
-            rightSum *= nums[i];
+            ans[i] *= rightsum;
+            rightsum *= nums[i];
         }
-
         return ans;
     }
 }
