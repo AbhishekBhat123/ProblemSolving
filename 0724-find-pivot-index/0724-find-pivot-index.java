@@ -63,26 +63,53 @@
 // here we can even reduce this space complexity from O(n) to O(1)
 
 
+// class Solution {
+//     public int pivotIndex(int[] nums) {
+//         int n = nums.length; 
+//         int totalSum = 0;
+//         //finding the total sum first
+//         for(int num:nums){
+//             totalSum += num;
+//         }
+//         // int pivot = -1;
+//         int rightSum = 0;
+//         int leftSum = 0;
+
+//         for(int i = 0; i<n; i++){
+//             rightSum = totalSum - nums[i] - leftSum;
+
+//             if(leftSum == rightSum){return i;}
+//             else{leftSum += nums[i];}
+//         }
+
+
+//         return -1;
+//     }
+// }
+
+
+
+
 class Solution {
     public int pivotIndex(int[] nums) {
         int n = nums.length; 
         int totalSum = 0;
-        //finding the total sum first
-        for(int num:nums){
-            totalSum += num;
+
+        for(int m:nums){
+            totalSum += m;
         }
-        // int pivot = -1;
-        int rightSum = 0;
-        int leftSum = 0;
+        int leftsum = 0;
+        int rightsum = 0;
 
         for(int i = 0; i<n; i++){
-            rightSum = totalSum - nums[i] - leftSum;
+            rightsum = totalSum - nums[i] - leftsum;
+            if(leftsum == rightsum){return i;}
+            else{leftsum += nums[i];}
 
-            if(leftSum == rightSum){return i;}
-            else{leftSum += nums[i];}
         }
 
-
         return -1;
+        
+
     }
 }
