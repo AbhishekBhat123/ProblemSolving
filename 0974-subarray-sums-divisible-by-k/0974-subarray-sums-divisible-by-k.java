@@ -44,31 +44,68 @@
 // }
 
 
+// class Solution {
+//     public int subarraysDivByK(int[] nums, int k) {
+//         int n  = nums.length;
+//         int prefixsum = 0;
+//         // this is for storing the remainders
+//         int count[] = new int[k];
+
+//         int ans = 0; 
+
+//         // this is for storing the prefix value say it is true that 0 % k = 0 so 0 is present as 1
+//         count[0] = 1;
+
+//         for(int num: nums){
+//             prefixsum += num;
+//             int remainder = prefixsum % k;
+
+//             if(remainder<0){
+//                 remainder += k;
+//             }
+
+//             ans += count[remainder];
+//             count[remainder]++;
+//         }
+
+//         return ans;
+    
+//     }
+// }
+
+
+
+
+
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-        int n  = nums.length;
-        int prefixsum = 0;
-        // this is for storing the remainders
-        int count[] = new int[k];
+       int n = nums.length;
+       int totalsum = 0;
+       int cnt = 0;
+       
+       // for to store the freq and freq
+       HashMap<Integer, Integer> map = new HashMap<>();
 
-        int ans = 0; 
+       int pref[] = new int[n];
+       pref[0] = nums[0];
+       for(int i = 1; i<n; i++){
+        pref[i] = pref[i-1] + nums[i];
+       }
 
-        // this is for storing the prefix value say it is true that 0 % k = 0 so 0 is present as 1
-        count[0] = 1;
+       map.put(0,1);
+       for(int i = 0; i<n; i++){
+        int need = pref[i] % k;
 
-        for(int num: nums){
-            prefixsum += num;
-            int remainder = prefixsum % k;
+        if(need < 0){need += k;}
 
-            if(remainder<0){
-                remainder += k;
-            }
-
-            ans += count[remainder];
-            count[remainder]++;
+        if(map.containsKey(need)){
+            cnt += map.get(need);
         }
 
-        return ans;
+        map.put(need, map.getOrDefault(need, 0)+1);
+       }
+
+       return cnt;
     
     }
 }
