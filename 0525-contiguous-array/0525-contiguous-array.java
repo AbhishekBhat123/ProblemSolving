@@ -46,27 +46,60 @@
 
 // optimal
 
+// class Solution {
+//     public int findMaxLength(int[] nums) {
+
+//         int maxlength = 0;
+//         int n = nums.length;
+//         int cnt = 0;
+
+//         HashMap<Integer, Integer> map = new HashMap<>();
+
+//         // as prefix sum the -1 index will be contains also 0 here key = count and value = index
+
+//         map.put(0,-1);
+
+//         for(int i = 0; i<n; i++){
+//             if(nums[i] == 0){cnt--;}
+//             else{cnt++;}
+
+//             if(map.containsKey(cnt)){
+//                 maxlength = Math.max(maxlength, i - (map.get(cnt)));
+//             }
+//             else{map.put(cnt, i);}
+//         }
+//         return maxlength;
+
+//     }
+// }
+
+
+
+
 class Solution {
     public int findMaxLength(int[] nums) {
-
-        int maxlength = 0;
         int n = nums.length;
-        int count = 0;
+        int maxlength = 0;
+        int cnt = 0;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
 
-        map.put(0, -1);
+        for(int i = 0; i<n; i++){
+            if(nums[i] == 0){
+                cnt--;
+            }    
+            else{cnt++;}
 
-        for(int i =0; i<n; i++){
-            if(nums[i] == 0){count--;}
-            else{count++;}
-
-            if(map.containsKey(count)){
-                maxlength = Math.max(maxlength, i- map.get(count));
-            }
-            else{map.put(count, i);}
+                if(map.containsKey(cnt)){
+                    int idx = map.get(cnt);
+                    maxlength = Math.max(maxlength, i - idx);
+                }     
+                else{map.put(cnt,i);}       
         }
+
         return maxlength;
+       
 
     }
 }
