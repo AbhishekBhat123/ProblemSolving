@@ -27,19 +27,37 @@
 // above approach for the O(n^2) brute force one
 
 // we are using kadanes algo
+// class Solution {
+//     public int maxSubArray(int[] nums) {
+//         int n = nums.length;
+//         int sum = 0;
+//         // this is important first value of array other wise i get issue in handling -ve values
+//         int maxSum  = nums[0];
+
+//         for(int i = 0; i<n; i++){
+//             sum += nums[i];
+//             maxSum = Math.max(sum, maxSum);
+
+//             if(sum<0){sum = 0;}
+//         }
+//         return maxSum;
+//     }
+// }
+
+
+
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int n = nums.length;
         int sum = 0;
-        // this is important first value of array other wise i get issue in handling -ve values
-        int maxSum  = nums[0];
+        int maxs = nums[0];
 
         for(int i = 0; i<n; i++){
             sum += nums[i];
-            maxSum = Math.max(sum, maxSum);
-
-            if(sum<0){sum = 0;}
+            maxs = Math.max(maxs, sum);
+            if(sum <0){sum = 0;}
         }
-        return maxSum;
+        return maxs;
     }
 }
