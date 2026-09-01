@@ -19,36 +19,74 @@
 
 
 // Optimal
+// class Solution {
+//     public boolean checkSubarraySum(int[] nums, int k) {
+//         int n = nums.length;
+//         int sum = 0;
+
+//         // construct pref sum
+//         int pref[] = new int[n];
+//         pref[0] = nums[0];
+//         for(int i = 1; i<n; i++){
+//             pref[i] = pref[i-1] + nums[i];
+//         }
+
+//         HashMap<Integer,Integer> map = new HashMap<>();
+//         map.put(0,-1);
+//         for(int i = 0; i<n; i++){
+//             int remainder =  pref[i] %k;
+//             int previndex;
+//             if(map.containsKey(remainder)){
+//                 previndex = map.get(remainder);
+//                 if(i - previndex >=2){
+//                     return true;
+//                 }
+                
+//             }
+
+//             // if i didnt mention this puting remainder value to the else block then my remainder index value will be overlapped with new same remainder that is the problem 
+//             else{
+//                     map.put(remainder, i);
+//                 }
+
+            
+//         }
+
+//         return false;
+//     }
+// }
+
+
+
+
+
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
         int n = nums.length;
         int sum = 0;
 
-        // construct pref sum
         int pref[] = new int[n];
         pref[0] = nums[0];
         for(int i = 1; i<n; i++){
             pref[i] = pref[i-1] + nums[i];
         }
 
-        HashMap<Integer,Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> map= new HashMap<>();
         map.put(0,-1);
+
         for(int i = 0; i<n; i++){
-            int remainder =  pref[i] %k;
-            int previndex;
-            if(map.containsKey(remainder)){
-                previndex = map.get(remainder);
-                if(i - previndex >=2){
+            int needed = pref[i] % k;
+
+            if(map.containsKey(needed)){
+                int length = map.get(needed);
+
+                if(i-length >= 2){
                     return true;
                 }
-                
             }
-
             else{
-                    map.put(remainder, i);
-                }
-
-            
+                map.put(needed, i);
+            }
         }
 
         return false;
