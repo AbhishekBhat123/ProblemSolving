@@ -50,48 +50,76 @@
 // }
 
 // Optimal solution using kadane's algo
+// class Solution {
+//     public int maxSubarraySumCircular(int[] nums) {
+
+//         int total = 0;
+
+//         // Best subarray ending at current position
+//         int currentMax = 0;
+
+//         // Best subarray seen overall
+//         int maxSum = nums[0];
+
+//         // Smallest subarray ending at current position
+//         int currentMin = 0;
+
+//         // Smallest subarray seen overall
+//         int minSum = nums[0];
+
+//         for (int num : nums) {
+
+//             // Find maximum normal subarray
+//             currentMax = Math.max(num, currentMax + num);
+//             maxSum = Math.max(maxSum, currentMax);
+
+//             // Find minimum normal subarray
+//             currentMin = Math.min(num, currentMin + num);
+//             minSum = Math.min(minSum, currentMin);
+
+//             // Find total array sum
+//             total += num;
+//         }
+
+//         // If everything is negative,
+//         // circular calculation would incorrectly mean
+//         // taking zero elements.
+//         if (maxSum < 0) {
+//             return maxSum;
+//         }
+
+//         // Two possibilities:
+//         //
+//         // 1. Normal maximum subarray
+//         // 2. Circular maximum = total - minimum subarray
+//         return Math.max(maxSum, total - minSum);
+//     }
+// }
+
+
+
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
 
-        int total = 0;
+        int n  = nums.length;
+        int total = nums[0];
+        int curmx = nums[0];
+        int curmn = nums[0];
+        int  max = nums[0];
+        int min = nums[0];
 
-        // Best subarray ending at current position
-        int currentMax = 0;
+        for(int i = 1; i<n; i++){
+             curmx = Math.max(nums[i], curmx + nums[i]);
+             max = Math.max(max, curmx);
 
-        // Best subarray seen overall
-        int maxSum = nums[0];
+             curmn = Math.min(nums[i], curmn + nums[i]);
+             min = Math.min(min, curmn);
 
-        // Smallest subarray ending at current position
-        int currentMin = 0;
-
-        // Smallest subarray seen overall
-        int minSum = nums[0];
-
-        for (int num : nums) {
-
-            // Find maximum normal subarray
-            currentMax = Math.max(num, currentMax + num);
-            maxSum = Math.max(maxSum, currentMax);
-
-            // Find minimum normal subarray
-            currentMin = Math.min(num, currentMin + num);
-            minSum = Math.min(minSum, currentMin);
-
-            // Find total array sum
-            total += num;
+             total += nums[i];
         }
 
-        // If everything is negative,
-        // circular calculation would incorrectly mean
-        // taking zero elements.
-        if (maxSum < 0) {
-            return maxSum;
-        }
+        if(max<0){return max;}
 
-        // Two possibilities:
-        //
-        // 1. Normal maximum subarray
-        // 2. Circular maximum = total - minimum subarray
-        return Math.max(maxSum, total - minSum);
+        return Math.max(max, total - min);
     }
 }
