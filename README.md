@@ -38,6 +38,7 @@
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
@@ -129,4 +130,8 @@
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 <!---LeetCode Topics End-->
