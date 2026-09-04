@@ -48,6 +48,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -122,8 +123,10 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
