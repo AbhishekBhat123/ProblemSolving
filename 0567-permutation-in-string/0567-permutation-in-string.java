@@ -32,45 +32,88 @@
 
 
 // Optimal sliding window
+// class Solution {
+//     public boolean checkInclusion(String s1, String s2) {
+//         int n = s1.length();
+//         int m = s2.length();
+
+//         if(n > m){return false;}
+
+//         // create first freq array for s1
+//         int freqs1[] = new int[26];
+//         for(int i = 0; i<n; i++){
+//             freqs1[s1.charAt(i) - 'a']++;
+//         }
+
+//         // first create new window 
+//         int freqs2[] = new int[26];
+//         for(int i = 0; i<n; i++){
+//             freqs2[s2.charAt(i) - 'a']++;
+//         }
+//         int s = 0;
+//         int e = n;
+
+//         while(e <= m){
+//             int cnt = 0;
+//             for(int i = 0; i<26; i++){
+//                 if(freqs1[i] != freqs2[i]){
+//                     break;
+//                 }
+//                 cnt++;
+//                 if(cnt == 26){return true;}
+//             }
+
+//             // for shrinking and expanding window
+//             if(e<m){
+//                 freqs2[s2.charAt(s) - 'a']--;
+//                 freqs2[s2.charAt(e) - 'a']++;
+//             }
+//             s++;
+//             e++;
+//         }
+//         return false;
+//     }
+// }
+
+
+
+
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int n = s1.length();
         int m = s2.length();
-
-        if(n > m){return false;}
-
-        // create first freq array for s1
         int freqs1[] = new int[26];
-        for(int i = 0; i<n; i++){
+
+        for(int i =0; i<n; i++){
             freqs1[s1.charAt(i) - 'a']++;
         }
 
-        // first create new window 
-        int freqs2[] = new int[26];
+        if(n>m){return false;}
+
+        int freqs2[] = new int[26]; 
         for(int i = 0; i<n; i++){
             freqs2[s2.charAt(i) - 'a']++;
         }
+
         int s = 0;
         int e = n;
 
         while(e <= m){
             int cnt = 0;
             for(int i = 0; i<26; i++){
-                if(freqs1[i] != freqs2[i]){
-                    break;
-                }
-                cnt++;
+                if(freqs1[i] == freqs2[i]){cnt++;}
                 if(cnt == 26){return true;}
             }
-
-            // for shrinking and expanding window
+            
             if(e<m){
-                freqs2[s2.charAt(s) - 'a']--;
-                freqs2[s2.charAt(e) - 'a']++;
+            freqs2[s2.charAt(s) - 'a']--;
+            freqs2[s2.charAt(e) - 'a']++;
             }
-            s++;
+
             e++;
+            s++;
         }
+
         return false;
     }
 }
