@@ -7,6 +7,7 @@ class Solution {
         while(start <= n){
             count += (n - start + 1) * comma;
             start *= 1000;
+            comma++;
         }
 
         return count;
