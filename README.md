@@ -129,6 +129,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3870-count-commas-in-range](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
