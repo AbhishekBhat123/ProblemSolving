@@ -53,6 +53,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
 ## Design
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
