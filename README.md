@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -78,6 +79,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
@@ -128,6 +130,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
