@@ -45,6 +45,7 @@
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
@@ -172,6 +174,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
