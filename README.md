@@ -46,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -204,4 +205,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
