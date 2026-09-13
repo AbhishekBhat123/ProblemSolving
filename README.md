@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -175,6 +177,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Binary Search
