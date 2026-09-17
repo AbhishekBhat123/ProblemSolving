@@ -18,6 +18,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -39,6 +40,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
@@ -134,6 +137,7 @@
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
