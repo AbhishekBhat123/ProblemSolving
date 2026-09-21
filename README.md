@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
@@ -85,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
