@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
@@ -95,6 +97,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
