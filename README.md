@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -57,6 +58,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -229,6 +231,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
