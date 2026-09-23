@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
@@ -66,6 +67,7 @@
 | [0238-product-of-array-except-self](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
@@ -143,6 +146,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -182,6 +186,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 ## Stack
 |  |
@@ -241,4 +246,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
