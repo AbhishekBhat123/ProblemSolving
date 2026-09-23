@@ -1,15 +1,15 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        HashSet<Long> hs = new HashSet<>();
-        for(long x : nums){
+        HashSet<Integer> hs = new HashSet<>();
+        for(int x : nums){
             hs.add(x);
         }
         int max = 0;
 
-        for(long x: hs){
+        for(int x: hs){ // important i forgotten to write hs here i wrote nums
             if(!hs.contains(x-1)){
                 int length = 1;
-                long cnt = x;
+                int cnt = x;
 
                 while(hs.contains(cnt+1)){
                     length++;
