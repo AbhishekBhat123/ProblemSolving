@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
@@ -64,6 +65,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
@@ -95,6 +97,7 @@
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 ## Matrix
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -202,6 +206,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
