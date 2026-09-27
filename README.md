@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
@@ -98,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
@@ -203,6 +205,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
