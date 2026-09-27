@@ -72,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
@@ -196,12 +197,14 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
