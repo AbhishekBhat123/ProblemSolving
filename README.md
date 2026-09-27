@@ -91,6 +91,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
@@ -142,6 +143,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
