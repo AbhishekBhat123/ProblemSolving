@@ -24,6 +24,7 @@
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -95,6 +96,7 @@
 | [0941-valid-mountain-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
@@ -123,6 +125,7 @@
 | [0905-sort-array-by-parity](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0937-reorder-data-in-log-files) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 ## Matrix
@@ -303,10 +306,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -319,4 +324,5 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
