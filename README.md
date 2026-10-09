@@ -22,6 +22,7 @@
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0937-reorder-data-in-log-files](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0937-reorder-data-in-log-files) |
 ## Sliding Window
@@ -87,6 +89,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
@@ -128,6 +131,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
@@ -224,6 +228,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 ## Stack
@@ -301,12 +306,14 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -338,4 +345,8 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
