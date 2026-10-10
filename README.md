@@ -95,6 +95,7 @@
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
@@ -268,6 +269,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
