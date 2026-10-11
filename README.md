@@ -117,6 +117,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
@@ -280,6 +281,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
