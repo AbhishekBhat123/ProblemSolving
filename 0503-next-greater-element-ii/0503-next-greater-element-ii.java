@@ -1,4 +1,4 @@
-// class Solution {
+//  class Solution {
 //     public int[] nextGreaterElements(int[] nums) {
 //         int n = nums.length;
 //         Stack<Integer> stk = new Stack<>();
@@ -45,28 +45,33 @@
 //     }
 // }
 
-
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
-        int[] ans = new int[n];
-        Stack<Integer> stk = new Stack<>();
 
+        int[] ans = new int[n];
         Arrays.fill(ans, -1);
 
-        // Traverse the array twice to simulate circular behavior
-        for (int i = 2 * n - 1; i >= 0; i--) {
-            int index = i % n;
+        Stack<Integer> stk = new Stack<>();
 
-            while (!stk.isEmpty() && nums[stk.peek()] <= nums[index]) {
-                stk.pop();
+        // Traverse the array twice to simulate circular movement
+        for (int i = 0; i < 2 * n; i++) {
+
+            // Convert the loop index into an actual array index
+            int idx = i % n;
+
+            // Resolve elements that are smaller than the current element
+            while (!stk.isEmpty() &&
+                   nums[stk.peek()] < nums[idx]) {
+
+                int prevIndex = stk.pop();
+                ans[prevIndex] = nums[idx];
             }
 
-            if (i < n && !stk.isEmpty()) {
-                ans[index] = nums[stk.peek()];
+            // Push each original index only once
+            if (i < n) {
+                stk.push(idx);
             }
-
-            stk.push(index);
         }
 
         return ans;
