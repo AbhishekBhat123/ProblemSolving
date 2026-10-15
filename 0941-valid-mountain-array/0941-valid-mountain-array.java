@@ -1,33 +1,30 @@
 class Solution {
-    private boolean check(int[] arr, int i, boolean increasing) {
-        if (i == arr.length - 1) {
-            return !increasing;
-        }
-
-        if (increasing) {
-            if (arr[i] < arr[i + 1]) {
-                return check(arr, i + 1, true);
-            }
-
-            if (arr[i] > arr[i + 1]) {
-                return check(arr, i + 1, false);
-            }
-
-            return false;
-        }
-
-        if (arr[i] > arr[i + 1]) {
-            return check(arr, i + 1, false);
-        }
-
-        return false;
-    }
-
     public boolean validMountainArray(int[] arr) {
-        if (arr.length < 3 || arr[0] >= arr[1]) {
+        int n = arr.length;
+
+        // Step 1: Minimum length
+        if (n < 3) {
             return false;
         }
 
-        return check(arr, 0, true);
+        int i = 0;
+
+        // Step 2: Climb uphill
+        while (i + 1 < n && arr[i] < arr[i + 1]) {
+            i++;
+        }
+
+        // Step 3: Peak cannot be at either end
+        if (i == 0 || i == n - 1) {
+            return false;
+        }
+
+        // Step 4: Climb downhill
+        while (i + 1 < n && arr[i] > arr[i + 1]) {
+            i++;
+        }
+
+        // Step 5: Must reach the end
+        return i == n - 1;
     }
 }
