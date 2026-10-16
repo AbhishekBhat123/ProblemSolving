@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
