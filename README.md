@@ -289,6 +289,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -370,4 +371,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
