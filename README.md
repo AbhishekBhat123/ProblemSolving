@@ -262,6 +262,7 @@
 | [0018-4sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
@@ -376,5 +377,6 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
