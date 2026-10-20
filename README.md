@@ -260,6 +260,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0344-reverse-string) |
@@ -374,5 +375,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
