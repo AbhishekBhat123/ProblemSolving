@@ -49,6 +49,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-reorder-data-in-log-files](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0937-reorder-data-in-log-files) |
 ## Sliding Window
 |  |
@@ -249,6 +250,7 @@
 | [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -375,10 +377,15 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
