@@ -97,6 +97,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -384,6 +387,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
