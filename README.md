@@ -312,11 +312,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 ## Union-Find
@@ -400,9 +402,11 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
