@@ -327,6 +327,7 @@
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -414,6 +415,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,4 +425,5 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
