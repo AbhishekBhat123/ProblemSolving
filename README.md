@@ -94,6 +94,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0905-sort-array-by-parity) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
