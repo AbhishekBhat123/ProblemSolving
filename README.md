@@ -132,6 +132,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3904-smallest-stable-index-ii) |
@@ -232,6 +233,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
