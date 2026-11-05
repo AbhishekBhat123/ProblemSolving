@@ -24,6 +24,7 @@
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
@@ -48,6 +49,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
+| [0677-map-sum-pairs](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0677-map-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -396,6 +399,7 @@
 ## Trie
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
