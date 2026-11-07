@@ -120,6 +120,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -256,6 +257,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 ## Stack
 |  |
