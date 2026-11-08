@@ -132,6 +132,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1710-maximum-units-on-a-truck) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -162,6 +163,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | [0605-can-place-flowers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1710-maximum-units-on-a-truck](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
