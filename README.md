@@ -102,6 +102,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
@@ -406,6 +407,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
