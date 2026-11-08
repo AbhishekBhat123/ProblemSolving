@@ -121,6 +121,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -159,6 +160,7 @@
 | [0905-sort-array-by-parity](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0937-reorder-data-in-log-files) |
+| [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [1122-relative-sort-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1424-diagonal-traverse-ii) |
@@ -412,6 +414,7 @@
 | [0605-can-place-flowers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
@@ -446,4 +449,12 @@
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
