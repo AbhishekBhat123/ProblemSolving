@@ -98,6 +98,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
@@ -155,6 +156,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
@@ -461,4 +463,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1029-two-city-scheduling) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
