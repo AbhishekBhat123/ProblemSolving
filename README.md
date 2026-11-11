@@ -137,6 +137,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1710-maximum-units-on-a-truck) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -246,6 +247,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3871-count-commas-in-range-ii) |
@@ -326,6 +328,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
@@ -360,11 +363,13 @@
 | [0039-combination-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -471,4 +476,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
