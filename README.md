@@ -26,6 +26,7 @@
 | [0567-permutation-in-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -111,6 +112,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0740-delete-and-earn) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0867-transpose-matrix](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0875-koko-eating-bananas) |
@@ -225,6 +227,7 @@
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
