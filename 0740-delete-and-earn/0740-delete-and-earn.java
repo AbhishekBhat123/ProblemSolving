@@ -1,42 +1,36 @@
+
 class Solution {
+    private int fun(int[] array, int index, int[] dp) {
 
-    public int fun(int[] points, int i, int[] dp) {
-
-        if (i >= points.length) {
+        if(index >= array.length) {
             return 0;
         }
-
-        if (dp[i] != -1) {
-            return dp[i];
-        }
-
+        if(dp[index] != -1){return dp[index];}
         // Pick
-        int pick = points[i] + fun(points, i + 2, dp);
+        int pick = index * array[index] + fun(array, index + 2, dp);
 
-        // Not Pick
-        int notPick = fun(points, i + 1, dp);
+        // Skip
+        int skip = fun(array, index + 1, dp);
 
-        return dp[i] = Math.max(pick, notPick);
+        dp[index] = Math.max(pick, skip);
+        return dp[index];
     }
 
     public int deleteAndEarn(int[] nums) {
-
         int max = 0;
 
-        for (int x : nums) {
-            max = Math.max(max, x);
+        for(int i : nums) {
+            max = Math.max(max, i);
         }
 
-        int[] points = new int[max + 1];
+        int[] count = new int[max + 1];
 
-        // Combine duplicate values
-        for (int x : nums) {
-            points[x] += x;
+        for(int i : nums) {
+            count[i]++;
         }
 
-        int[] dp = new int[max + 1];
+        int[] dp = new int[max+1];
         Arrays.fill(dp, -1);
-
-        return fun(points, 0, dp);
+        return fun(count, 0, dp);
     }
 }
