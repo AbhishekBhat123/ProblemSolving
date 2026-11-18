@@ -102,6 +102,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0406-queue-reconstruction-by-height) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
@@ -228,6 +229,7 @@
 | [0152-maximum-product-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0907-sum-of-subarray-minimums) |
@@ -368,6 +370,7 @@
 | [0039-combination-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -485,4 +488,12 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
