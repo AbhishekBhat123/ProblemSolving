@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0523-continuous-subarray-sum) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -381,6 +383,7 @@
 | ------- |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
