@@ -346,6 +346,7 @@
 | [0112-path-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -357,6 +358,7 @@
 | [0112-path-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Union-Find
@@ -364,6 +366,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -496,4 +499,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0494-target-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
