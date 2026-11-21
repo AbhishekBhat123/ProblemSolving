@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0912-sort-an-array) |
@@ -379,6 +380,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhishekBhat123/ProblemSolving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
